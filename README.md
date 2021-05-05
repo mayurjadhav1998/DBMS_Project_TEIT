@@ -2,7 +2,7 @@
 
 Project Members for This Project are As follows :
 
-Anirudha Sanjeev Chippa
-Pranav Ashok Navale
-Mayur Dhanaji Jadhav
-Minal Anil Bhandare 
+Anirudha Sanjeev Chippa       
+Pranav Ashok Navale         
+Mayur Dhanaji Jadhav        
+Minal Anil Bhandare       
